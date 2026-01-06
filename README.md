@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pavanknvs
-- 👀 I’m interested in data science,full stack developer
-- 🌱 I’m currently learning tcl,react,js,spring
-- 💞️ I’m looking to collaborate on computer vision,ml,vlsi,webdev
-- 📫 You can reach me on email:pavanknvs@gmail.com
+I am interested in exploring new technologies. As a software developer, I aim to utilize my skills and expertise to develop eﬃcient and reliable software solutions. 
+My goal is to contribute to the success of the organization while honing my technical abilities and advancing my career as a software developer.
 
 <!---
 pavanknvs/pavanknvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
